@@ -1,0 +1,11 @@
+@font-face {  
+    font-family: kruti dev ;  
+    src: url( '../hindi/k010.TTF' ) format("truetype");  
+}
+
+body{
+	color: #ffffff;
+}
+input{
+	color: #000090;
+}
