@@ -21,3 +21,9 @@ input{
 .border-dark{
 	border:#111111 solid 1px
 }
+.tot_diff{
+	font-size: 1.8em;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
