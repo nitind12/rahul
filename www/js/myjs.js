@@ -14,6 +14,18 @@ $(function(){
 				$('#txtO_D').val('0');
 			}	
 		}
+		if($.trim($('#txtP_C').val()) != '' && $.trim($('#txtP_D').val()) != ''){
+			p_c = parseInt($.trim($('#txtP_C').val()));
+			p_d = parseInt($.trim($('#txtP_D').val()));
+			p_result = (p_c-(p_c*p_d)/100);
+			$('#txtP_E').val(p_result.toFixed(2));
+		}
+		if($.trim($('#txtO_C').val()) != '' && $.trim($('#txtO_D').val()) != ''){
+			o_c = parseInt($.trim($('#txtO_C').val()));
+			o_d = parseInt($.trim($('#txtO_D').val()));
+			o_result = (o_c-(o_c*o_d)/100);
+			$('#txtO_E').val(o_result.toFixed(2));
+		}
 	});
 
 	$('#txtO_Moisture').blur(function(){

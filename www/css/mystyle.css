@@ -13,4 +13,5 @@ input{
 .disabledinput{
 	background:#900000; 
 	color: #ffff00;
+	border: none;
 }
