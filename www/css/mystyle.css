@@ -8,4 +8,9 @@ body{
 }
 input{
 	color: #000090;
+	font-weight: bold;
+}
+.disabledinput{
+	background:#900000; 
+	color: #ffff00;
 }
