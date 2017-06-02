@@ -31,4 +31,28 @@ $(function(){
 	$('#txtO_Moisture').blur(function(){
 		$('#txtP_Moisture').blur();
 	});
+	$('#txtP_A').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtO_A').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtP_B').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtO_B').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtP_C').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtO_C').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtP_D').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
+	$('#txtO_D').blur(function(){
+		$('#txtP_Moisture').blur();
+	});
 });

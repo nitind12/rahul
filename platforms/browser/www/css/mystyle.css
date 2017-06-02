@@ -15,3 +15,9 @@ input{
 	color: #ffff00;
 	border: none;
 }
+.border-light{
+	border:#f0f0f0 solid 1px
+}
+.border-dark{
+	border:#111111 solid 1px
+}
