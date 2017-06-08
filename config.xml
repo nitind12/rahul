@@ -2,10 +2,10 @@
 <widget id="com.phonegap.rahul" version="1.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>rahul</name>
     <description>
-        A blank PhoneGap app.
+        Pioneer Production Calculator for 1844
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="ttchld@gmail.com" href="http://teamfreelancers.com">
+        Teamfreelancers team
     </author>
     <content src="index.html" />
     <access origin="*" />
