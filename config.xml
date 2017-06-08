@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.rahul" version="1.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>rahul</name>
+    <name>YP1844</name>
     <description>
         Pioneer Production Calculator for 1844
     </description>
     <author email="rahul.mathur@pioneer.com" href="http://teamfreelancers.com">
-        Teamfreelancers team
+        Pioneer team
     </author>
     <content src="index.html" />
     <access origin="*" />
